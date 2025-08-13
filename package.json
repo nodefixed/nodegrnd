@@ -1,9 +1,10 @@
 {
-  "name": "express-getting-started",
+  "name": "nodegrnd",
   "version": "1.0.0",
   "description": "",
   "main": "index.mjs",
   "scripts": {
+    "start": "node index.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
